@@ -1,0 +1,25 @@
+{
+  "name": "growcss-grider",
+  "version": "0.0.0",
+  "homepage": "http://anolilab.de",
+  "authors": [
+    "prisis <d.bannert@anolilab.de>"
+  ],
+  "description": "A lightweight, semantic grid framework.",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "grunt",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
