@@ -17,7 +17,6 @@
 * [npm:](https://npmjs.org/) Well... it's a Node.js package manager
 * [Grunt:](http://gruntjs.com/) Automates common tasks: test, build, clean
 * [Bower:](http://bower.io/) Package manager for browser dependencies
-* [Jasmine:](http://pivotal.github.io/jasmine/) Behavior-driven test framework
 * [Karma:](http://karma-runner.github.io/) Spectacular Test Runner for Javascript
 * [Hound:](https://houndci.com/) Hound comments on style violations in GitHub pull requests
 
