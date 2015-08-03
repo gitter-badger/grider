@@ -1,5 +1,7 @@
 # grider
 
+[![Join the chat at https://gitter.im/growcss/grider](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/growcss/grider?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Author](http://img.shields.io/badge/author-@anolilab-blue.svg?style=flat-square)](https://twitter.com/anolilab)
 [![npm](https://img.shields.io/npm/v/grider.svg?style=flat-square)](https://www.npmjs.com/package/grider)
 [![devDependency Status](https://david-dm.org/growcss/grider/dev-status.svg?style=flat-square)](https://david-dm.org/growcss/grider#info=devDependencies)
